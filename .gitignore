@@ -1,0 +1,4 @@
+# Instructor copies never go in this public repository.
+*_SOLUTIONS.ipynb
+*.executed.ipynb
+.ipynb_checkpoints/
